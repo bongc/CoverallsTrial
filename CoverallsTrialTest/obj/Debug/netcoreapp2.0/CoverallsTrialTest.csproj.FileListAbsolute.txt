@@ -1,0 +1,16 @@
+C:\workspace\CoverallsTrial\CoverallsTrialTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\workspace\CoverallsTrial\CoverallsTrialTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\workspace\CoverallsTrial\CoverallsTrialTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\workspace\CoverallsTrial\CoverallsTrialTest\bin\Debug\netcoreapp2.0\CoverallsTrialTest.deps.json
+C:\workspace\CoverallsTrial\CoverallsTrialTest\bin\Debug\netcoreapp2.0\CoverallsTrialTest.runtimeconfig.json
+C:\workspace\CoverallsTrial\CoverallsTrialTest\bin\Debug\netcoreapp2.0\CoverallsTrialTest.runtimeconfig.dev.json
+C:\workspace\CoverallsTrial\CoverallsTrialTest\bin\Debug\netcoreapp2.0\CoverallsTrialTest.dll
+C:\workspace\CoverallsTrial\CoverallsTrialTest\bin\Debug\netcoreapp2.0\CoverallsTrialTest.pdb
+C:\workspace\CoverallsTrial\CoverallsTrialTest\bin\Debug\netcoreapp2.0\CoverallsTrialLibrary.dll
+C:\workspace\CoverallsTrial\CoverallsTrialTest\bin\Debug\netcoreapp2.0\CoverallsTrialLibrary.pdb
+C:\workspace\CoverallsTrial\CoverallsTrialTest\obj\Debug\netcoreapp2.0\CoverallsTrialTest.csprojResolveAssemblyReference.cache
+C:\workspace\CoverallsTrial\CoverallsTrialTest\obj\Debug\netcoreapp2.0\CoverallsTrialTest.csproj.CoreCompileInputs.cache
+C:\workspace\CoverallsTrial\CoverallsTrialTest\obj\Debug\netcoreapp2.0\CoverallsTrialTest.AssemblyInfoInputs.cache
+C:\workspace\CoverallsTrial\CoverallsTrialTest\obj\Debug\netcoreapp2.0\CoverallsTrialTest.AssemblyInfo.cs
+C:\workspace\CoverallsTrial\CoverallsTrialTest\obj\Debug\netcoreapp2.0\CoverallsTrialTest.dll
+C:\workspace\CoverallsTrial\CoverallsTrialTest\obj\Debug\netcoreapp2.0\CoverallsTrialTest.pdb

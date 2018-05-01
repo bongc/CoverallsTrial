@@ -1,0 +1,8 @@
+C:\workspace\CoverallsTrial\CoverallsTrialLibrary\bin\Debug\netcoreapp2.0\CoverallsTrialLibrary.deps.json
+C:\workspace\CoverallsTrial\CoverallsTrialLibrary\bin\Debug\netcoreapp2.0\CoverallsTrialLibrary.dll
+C:\workspace\CoverallsTrial\CoverallsTrialLibrary\bin\Debug\netcoreapp2.0\CoverallsTrialLibrary.pdb
+C:\workspace\CoverallsTrial\CoverallsTrialLibrary\obj\Debug\netcoreapp2.0\CoverallsTrialLibrary.csproj.CoreCompileInputs.cache
+C:\workspace\CoverallsTrial\CoverallsTrialLibrary\obj\Debug\netcoreapp2.0\CoverallsTrialLibrary.AssemblyInfoInputs.cache
+C:\workspace\CoverallsTrial\CoverallsTrialLibrary\obj\Debug\netcoreapp2.0\CoverallsTrialLibrary.AssemblyInfo.cs
+C:\workspace\CoverallsTrial\CoverallsTrialLibrary\obj\Debug\netcoreapp2.0\CoverallsTrialLibrary.dll
+C:\workspace\CoverallsTrial\CoverallsTrialLibrary\obj\Debug\netcoreapp2.0\CoverallsTrialLibrary.pdb

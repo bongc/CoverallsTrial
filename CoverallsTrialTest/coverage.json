@@ -1,0 +1,60 @@
+{
+ "C:\\workspace\\CoverallsTrial\\CoverallsTrialTest\\bin\\Debug\\netcoreapp2.0\\CoverallsTrialLibrary.dll": {
+  "C:\\workspace\\CoverallsTrial\\CoverallsTrialLibrary\\Class1.cs": {
+   "CoverallsTrialLibrary.Class1": {
+    "System.Void CoverallsTrialLibrary.Class1::.ctor()": {
+     "7": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "8": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "10": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     }
+    },
+    "System.Void CoverallsTrialLibrary.Class1::Method1(System.Boolean)": {
+     "13": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "14": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "15": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "16": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "17": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "19": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "20": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "21": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "22": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     }
+    }
+   }
+  }
+ }
+}
