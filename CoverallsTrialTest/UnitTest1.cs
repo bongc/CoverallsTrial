@@ -12,5 +12,12 @@ namespace CoverallsTrialTest
 			var test = new Class1();
 			test.Method1(true);
 		}
+
+		[Fact]
+		public void Test2()
+		{
+			var test = new Class1();
+			test.Method1(false);
+		}
 	}
 }
