@@ -1,0 +1,1 @@
+[![Coverage Status](https://coveralls.io/repos/github/bongc/CoverallsTrial/badge.svg?branch=master)](https://coveralls.io/github/bongc/CoverallsTrial?branch=master)
